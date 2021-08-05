@@ -1,0 +1,27 @@
+{
+  "name": "first-blockchain-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "npm-install-all": "^1.1.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purplepro/BlockChain-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purplepro/BlockChain-app/issues"
+  },
+  "homepage": "https://github.com/Purplepro/BlockChain-app#readme"
+}
